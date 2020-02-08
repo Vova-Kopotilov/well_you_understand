@@ -1,0 +1,92 @@
+* {
+	list-style: none;
+}
+body {
+	margin: 0;
+}
+.topic {
+	text-align: center;
+	padding-top: 220px;
+	padding-bottom: 150px;
+	color: white ;
+	background-image: url(../img/work.png); 
+	background-size: cover;
+    margin:0px; 
+ }
+
+hr {
+	width: 750px; 
+	height: 0px;
+ } 
+.layout {
+	font-size: 120px;
+	margin: 0px; 
+}
+.go {
+	border: 2px double black;
+	padding: 10px 10px;
+	display: inline-block;
+	background-color: grey ;
+	color: white;
+	border: 2px solid #fff;
+ 	border-radius: 5px; 
+ 	margin-top: 65px;
+}
+.interest{
+	font-size: 20px;
+}
+.sign {
+    vertical-align: top;
+    color: red;
+    display: inline-block;
+ }
+.now {
+	text-align: center;
+	padding-top: 70px;
+	font-size: 60px;
+	margin: 0px;
+    background-color: rgb(168,168,168);
+}
+.description {
+	text-align: center;
+	font-size: 30px;
+	line-height: 45px;
+	margin: 0px;
+	padding-top: 50px;
+    background-color: rgb(168,168,168);;
+}
+.information {
+    display: inline-block;
+    margin-left: 240px;
+    margin-top: 50px;
+    padding: 20px 20px;
+    font-size: 30px;
+    border: 2px solid #0e79c0;
+ 	border-radius: 5px; 
+}
+.discord {
+    display: inline-block;
+    margin-left: 480px;
+    margin-top: 50px;
+    padding: 20px 20px;
+    font-size: 30px;
+    border: 2px solid #0e79c0;
+ 	border-radius: 5px;
+
+}
+.contacts {
+	text-align: center;
+	font-size: 50px;
+	background-color:rgb(200,218,230); 
+
+}
+.submit {
+	padding-top: 50px;
+	padding-left: 750px;
+	background-color:rgb(200,218,230); 
+	margin:0px;
+}
+.floor {
+   margin:0px;
+   padding-top: 0px;
+}
